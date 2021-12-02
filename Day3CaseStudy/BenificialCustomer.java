@@ -30,7 +30,13 @@ public class BenificialCustomer {
     	System.out.println("The offer 2 price is :"+p1);
     	p1=offer2;
      }
-     if(offer1>offer2)
+    float pay_in_offer1 = TotalPrice-offer1;
+     System.out.println("To pay in offer 1 :"+pay_in_offer1);
+     
+     float pay_in_offer2 = TotalPrice-offer2;
+     System.out.println("To pay in offer 1 :"+pay_in_offer2);
+     
+     if(pay_in_offer1>pay_in_offer2)
      {
     	 System.out.println("The offer 2 is benificial for the customer");
      }
