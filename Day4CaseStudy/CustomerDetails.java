@@ -49,7 +49,7 @@ public class CustomerAddress {
 
 
 --------------------------------------
-CustomerDetails:-
+CustomerDetails.java:-
   
 	
   package kanimozhi;
@@ -80,7 +80,7 @@ public class CustomerDetails {
 
 -----------------------------------
 
-CustomerDetailsMAin:-
+CustomerDetailsMAin.java:-
   
 	
   package kanimozhi;
