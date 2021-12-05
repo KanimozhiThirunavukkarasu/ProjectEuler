@@ -48,8 +48,10 @@ public class CustomerAddress {
 }
 
 
+--------------------------------------
 CustomerDetails:-
   
+	
   package kanimozhi;
 
 public class CustomerDetails {
@@ -76,8 +78,11 @@ public class CustomerDetails {
 		}
 
 
+-----------------------------------
+
 CustomerDetailsMAin:-
   
+	
   package kanimozhi;
 
 import java.util.Scanner;
